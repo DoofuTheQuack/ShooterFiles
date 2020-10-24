@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.arcadeshooter-14469661.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "C:/Users/Joe/Documents/GitHub/ShooterFiles/ArcadeShooter/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "ArcadeShooter-14469661 [UE Editor]"
+				}
+			}
+		}
+	]
+}
